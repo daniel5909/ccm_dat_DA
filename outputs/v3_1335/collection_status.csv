@@ -11,8 +11,8 @@
 2727152,review_required,0,preserved_prior_review,playback_interrupted
 3783395,features_done,1,features_done,
 621934,review_required,3,review_required,native_prepare_timeout
-925993,recording,1,preparing,
-2128356,pending,0,,
+925993,review_required,3,review_required,native_prepare_timeout
+2128356,recording,1,preparing,
 5618915,pending,0,,
 3386863,pending,0,,
 5708826,pending,0,,
