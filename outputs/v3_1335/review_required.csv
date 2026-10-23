@@ -7,3 +7,4 @@
 621934,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at seek zero verified after UIA/slider input,
 925993,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at seek zero verified after UIA/slider input,
 5708826,review_required,1,system_error,system_error,RuntimeError: RuntimeError: Different song/media identity: ,C:\Users\danie\Desktop\CCM_Audio_Team_301_v3_20261020\outputs_1335\run_20261024_074253_864908\result.json
+4708964,review_required,1,system_error,system_error,RuntimeError: Unresolved prior attempt; review it before retry: C:\Users\danie\Desktop\CCM_Audio_Team_301_v3_20261020\outputs_1335\run_20261024_074253_864908\result.json,
