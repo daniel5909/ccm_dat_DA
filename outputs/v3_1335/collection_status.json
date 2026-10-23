@@ -1,0 +1,40 @@
+{
+  "schema": "ccm-v3-collection-status-v1",
+  "input_sha256": "5631da4cf30e9de0b7e2b22a78bf242c3be1be037d74adf0da49b0aa4f34e816",
+  "rows": 1335,
+  "unique_ids": 1335,
+  "verified_features_done": 6,
+  "updated_at_utc": "2026-10-23T20:16:09Z",
+  "tracks": {
+    "2128355": {
+      "status": "features_done",
+      "csv_sha256": "98c5db1923def7f872648c85a47ce152c3c66226b214ba18fe7da56333123344",
+      "wav_sha256": "7641c30b06badc19f65d0d4d1836c988def77883c1b32e2e03015d4f188f266b"
+    },
+    "2128353": {
+      "status": "features_done",
+      "csv_sha256": "df318d9df74f9cd086c90a6030491e52adf5c7e2dcee6ffd0ae12967da7432e6",
+      "wav_sha256": "61da212482fbad2a7c76e2c5a424f9456db7b6a3dbdc97ac116f5ffebb5a1ba8"
+    },
+    "3027523": {
+      "status": "features_done",
+      "csv_sha256": "e830c5e94a13a99aafdbedb5ebddb43d44d701504b1ccf51a1aa607b060e65e3",
+      "wav_sha256": "0d88ea583d1486f9c578692d9810ba27b8181ad547362a449f9b5859cbc9e305"
+    },
+    "1608974": {
+      "status": "features_done",
+      "csv_sha256": "a511a07115e7837e44581315f8d6a5a337c53ad23c512e893f9087ceb0cebe36",
+      "wav_sha256": "9d94738bb98c8a14d1a4034c0e18a91f8ae168579c55df5808c229e25e1c9e18"
+    },
+    "1837148": {
+      "status": "features_done",
+      "csv_sha256": "8dd4b02ef37341cda7930d193030cba461235e5cfbe77960415c4d401b31046a",
+      "wav_sha256": "74547e0c00d4117f1bbdc8ff6a5aa545df28790f41d527c282e5ac217977c5d2"
+    },
+    "3783395": {
+      "status": "features_done",
+      "csv_sha256": "321007777ed90cbaf8dc464bfad147d50b11169a064e6a8937e59f23044c7f44",
+      "wav_sha256": "5f44cbdbeaf215d4cf17ea6bb07a1bc1561ec69615b3cb8b6a852b8d9b51b49a"
+    }
+  }
+}
