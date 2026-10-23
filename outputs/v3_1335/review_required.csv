@@ -1,0 +1,8 @@
+﻿track_id,status,attempts,phase,failure_kind,error,qa_result
+1316266,review_required,0,preserved_prior_review,,TrackFailure: ['edge_silence_review'],C:\Users\danie\Desktop\CCM_Audio_Team_301_v3_20261020\outputs_779\run_20261023_213122_734620\result.json
+1108787,review_required,0,preserved_prior_review,,TrackFailure: ['edge_silence_review'],C:\Users\danie\Desktop\CCM_Audio_Team_301_v3_20261020\outputs_779\run_20261023_231004_724844\result.json
+3386861,review_required,0,preserved_prior_review,,TrackFailure: ['edge_silence_review'],C:\Users\danie\Desktop\CCM_Audio_Team_301_v3_20261020\outputs_779\run_20261023_223605_290691\result.json
+4532267,review_required,0,preserved_prior_review,,TrackFailure: ['edge_silence_review'],C:\Users\danie\Desktop\CCM_Audio_Team_301_v3_20261020\outputs_779\run_20261023_233141_775972\result.json
+2727152,review_required,0,preserved_prior_review,playback_interrupted,TrackFailure: Native playback paused/stalled before full-song end,C:\Users\danie\Desktop\CCM_Audio_Team_301_v3_20261020\outputs_779\run_20261024_001027_162525\result.json
+621934,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at seek zero verified after UIA/slider input,
+925993,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at seek zero verified after UIA/slider input,
