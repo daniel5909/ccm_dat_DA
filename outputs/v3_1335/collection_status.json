@@ -3,13 +3,13 @@
   "input_sha256": "5631da4cf30e9de0b7e2b22a78bf242c3be1be037d74adf0da49b0aa4f34e816",
   "rows": 1335,
   "unique_ids": 1335,
-  "verified_features_done": 9,
+  "verified_features_done": 10,
   "status_counts": {
-    "features_done": 9,
-    "pending": 1318,
+    "features_done": 10,
+    "pending": 1317,
     "review_required": 8
   },
-  "updated_at_utc": "2026-10-23T23:44:14Z",
+  "updated_at_utc": "2026-10-23T23:50:38Z",
   "tracks": {
     "2128355": {
       "status": "features_done",
@@ -55,6 +55,11 @@
       "status": "features_done",
       "csv_sha256": "07d7e488387fd109bf01dd92b9dfbe578487559bf4068dcc985873d549db49ce",
       "wav_sha256": "dd95063e41519f5e69b8ddf32c42ed6eab97643e3966c736fe50544a95734417"
+    },
+    "4708964": {
+      "status": "features_done",
+      "csv_sha256": "ed203b6220034235a287cbc96c0cce5c50f0513f8a1f483aee4cc76a5c782938",
+      "wav_sha256": "5beeff2a987626a6bc737194348172f67d509509a1914b6c14ab72f3cbf1c6c1"
     }
   },
   "track_status": {
@@ -161,9 +166,9 @@
       "failure_kind": "system_error"
     },
     "4708964": {
-      "status": "pending",
-      "attempts": 0,
-      "phase": "recovered_cross_song_reference",
+      "status": "features_done",
+      "attempts": 1,
+      "phase": "features_done",
       "failure_kind": null
     },
     "5571530": {
