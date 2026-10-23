@@ -61,5 +61,14 @@
     "failure_kind": "native_prepare_timeout",
     "error": "Bounded native UI wait timed out at seek zero verified after UIA/slider input",
     "qa_result": null
+  },
+  {
+    "track_id": "5708826",
+    "status": "review_required",
+    "attempts": 1,
+    "phase": "system_error",
+    "failure_kind": "system_error",
+    "error": "RuntimeError: RuntimeError: Different song/media identity: ",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_074253_864908\\result.json"
   }
 ]
