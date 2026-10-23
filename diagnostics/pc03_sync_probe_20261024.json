@@ -1,0 +1,10 @@
+{
+  "schema": "ccm-pc03-github-write-probe-v1",
+  "worker": "PC03",
+  "test_type": "GitHub write integration only; not an audio or feature result",
+  "created_at_utc": "2026-10-23T22:55:00Z",
+  "project_path": "C:\\CCM\\PC03",
+  "v4_audio_features_uploaded": false,
+  "wav_uploaded": false,
+  "status": "LOCAL_COMMIT_PENDING_PUSH"
+}
