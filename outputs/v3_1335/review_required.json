@@ -601,5 +601,14 @@
     "failure_kind": "native_prepare_timeout",
     "error": "Bounded native UI wait timed out at prepare_native:150",
     "qa_result": null
+  },
+  {
+    "track_id": "3783387",
+    "status": "review_required",
+    "attempts": 3,
+    "phase": "review_required",
+    "failure_kind": "native_prepare_timeout",
+    "error": "Bounded native UI wait timed out at prepare_native:128",
+    "qa_result": null
   }
 ]
