@@ -718,5 +718,14 @@
     "failure_kind": "system_error",
     "error": "RuntimeError: Queue is neither a unique grid nor the observed explicit empty state",
     "qa_result": null
+  },
+  {
+    "track_id": "5618917",
+    "status": "review_required",
+    "attempts": 1,
+    "phase": "system_error",
+    "failure_kind": "system_error",
+    "error": "RuntimeError: Ambiguous native document in selected player window",
+    "qa_result": null
   }
 ]
