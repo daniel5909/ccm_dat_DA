@@ -9,7 +9,7 @@
     "pending": 389,
     "review_required": 6
   },
-  "updated_at_utc": "2026-10-24T12:08:51Z",
+  "updated_at_utc": "2026-10-24T12:10:25Z",
   "tracks": {
     "2128355": {
       "status": "features_done",
@@ -106,9 +106,9 @@
     },
     "621934": {
       "status": "pending",
-      "attempts": 0,
-      "phase": null,
-      "failure_kind": null
+      "attempts": 2,
+      "phase": "stopped_after_safe_cleanup",
+      "failure_kind": "native_prepare_timeout"
     },
     "925993": {
       "status": "pending",
