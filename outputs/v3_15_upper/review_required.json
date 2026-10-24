@@ -1,0 +1,47 @@
+[
+  {
+    "track_id": "1316266",
+    "status": "review_required",
+    "attempts": 0,
+    "phase": "preserved_prior_review",
+    "failure_kind": null,
+    "error": "TrackFailure: ['edge_silence_review']",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_779\\run_20261023_213122_734620\\result.json"
+  },
+  {
+    "track_id": "1108787",
+    "status": "review_required",
+    "attempts": 0,
+    "phase": "preserved_prior_review",
+    "failure_kind": null,
+    "error": "TrackFailure: ['edge_silence_review']",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_779\\run_20261023_231004_724844\\result.json"
+  },
+  {
+    "track_id": "3386861",
+    "status": "review_required",
+    "attempts": 0,
+    "phase": "preserved_prior_review",
+    "failure_kind": null,
+    "error": "TrackFailure: ['edge_silence_review']",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_779\\run_20261023_223605_290691\\result.json"
+  },
+  {
+    "track_id": "4532267",
+    "status": "review_required",
+    "attempts": 0,
+    "phase": "preserved_prior_review",
+    "failure_kind": null,
+    "error": "TrackFailure: ['edge_silence_review']",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_779\\run_20261023_233141_775972\\result.json"
+  },
+  {
+    "track_id": "2727152",
+    "status": "review_required",
+    "attempts": 0,
+    "phase": "preserved_prior_review",
+    "failure_kind": "playback_interrupted",
+    "error": "TrackFailure: Native playback paused/stalled before full-song end",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_779\\run_20261024_001027_162525\\result.json"
+  }
+]
