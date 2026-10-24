@@ -43,5 +43,14 @@
     "failure_kind": "playback_interrupted",
     "error": "TrackFailure: Native playback paused/stalled before full-song end",
     "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_779\\run_20261024_001027_162525\\result.json"
+  },
+  {
+    "track_id": "3783395",
+    "status": "review_required",
+    "attempts": 3,
+    "phase": "review_required",
+    "failure_kind": "native_prepare_timeout",
+    "error": "Bounded native UI wait timed out at prepare_native:150",
+    "qa_result": null
   }
 ]
