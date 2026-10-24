@@ -160,5 +160,14 @@
     "failure_kind": "native_prepare_timeout",
     "error": "Bounded native UI wait timed out at exact search title/artist/album result",
     "qa_result": null
+  },
+  {
+    "track_id": "1552201",
+    "status": "review_required",
+    "attempts": 3,
+    "phase": "review_required",
+    "failure_kind": "signal_quality_review",
+    "error": "TrackFailure: ['edge_silence_review']",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_115511_696653\\result.json"
   }
 ]
