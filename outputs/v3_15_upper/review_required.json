@@ -52,5 +52,14 @@
     "failure_kind": "native_prepare_timeout",
     "error": "Bounded native UI wait timed out at prepare_native:150",
     "qa_result": null
+  },
+  {
+    "track_id": "621934",
+    "status": "review_required",
+    "attempts": 3,
+    "phase": "system_error",
+    "failure_kind": "system_error",
+    "error": "RuntimeError: Live player queue count is not safely observable",
+    "qa_result": null
   }
 ]
