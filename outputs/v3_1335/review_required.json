@@ -88,5 +88,14 @@
     "failure_kind": "signal_quality_review",
     "error": "TrackFailure: ['edge_silence_review']",
     "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_091005_050627\\result.json"
+  },
+  {
+    "track_id": "1030855",
+    "status": "review_required",
+    "attempts": 1,
+    "phase": "review_required",
+    "failure_kind": "signal_quality_review",
+    "error": "TrackFailure: ['edge_silence_review']",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_100831_931919\\result.json"
   }
 ]
