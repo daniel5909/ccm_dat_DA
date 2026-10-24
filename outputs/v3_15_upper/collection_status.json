@@ -6,10 +6,10 @@
   "verified_features_done": 5,
   "status_counts": {
     "features_done": 5,
-    "pending": 361,
-    "review_required": 34
+    "pending": 360,
+    "review_required": 35
   },
-  "updated_at_utc": "2026-10-24T13:02:53Z",
+  "updated_at_utc": "2026-10-24T13:03:08Z",
   "tracks": {
     "2128355": {
       "status": "features_done",
@@ -273,10 +273,10 @@
       "failure_kind": "system_error"
     },
     "3386862": {
-      "status": "pending",
-      "attempts": 0,
-      "phase": null,
-      "failure_kind": null
+      "status": "review_required",
+      "attempts": 1,
+      "phase": "system_error",
+      "failure_kind": "system_error"
     },
     "1926800": {
       "status": "pending",
