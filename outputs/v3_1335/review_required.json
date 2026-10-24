@@ -268,5 +268,14 @@
     "failure_kind": "native_prepare_timeout",
     "error": "Bounded native UI wait timed out at exact search title/artist/album result",
     "qa_result": null
+  },
+  {
+    "track_id": "11122",
+    "status": "review_required",
+    "attempts": 3,
+    "phase": "review_required",
+    "failure_kind": "native_prepare_timeout",
+    "error": "Bounded native UI wait timed out at prepare_native:128",
+    "qa_result": null
   }
 ]
