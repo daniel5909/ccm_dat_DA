@@ -205,5 +205,14 @@
     "failure_kind": "signal_quality_review",
     "error": "TrackFailure: ['edge_silence_review']",
     "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_163427_820301\\result.json"
+  },
+  {
+    "track_id": "3568565",
+    "status": "review_required",
+    "attempts": 1,
+    "phase": "system_error",
+    "failure_kind": "system_error",
+    "error": "RuntimeError: Queue tail offscreen; safe reorder unavailable",
+    "qa_result": null
   }
 ]
