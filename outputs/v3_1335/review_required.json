@@ -898,5 +898,14 @@
     "failure_kind": "native_prepare_timeout",
     "error": "Bounded native UI wait timed out at prepare_native:150",
     "qa_result": null
+  },
+  {
+    "track_id": "4183710",
+    "status": "review_required",
+    "attempts": 1,
+    "phase": "system_error",
+    "failure_kind": "system_error",
+    "error": "RuntimeError: Queue is neither a unique grid nor the observed explicit empty state",
+    "qa_result": null
   }
 ]
