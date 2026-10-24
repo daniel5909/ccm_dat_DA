@@ -43,7 +43,7 @@
 1608959,features_done,1,features_done,
 2800460,review_required,3,review_required,native_prepare_timeout
 30254391,review_required,3,review_required,native_prepare_timeout
-1552201,pending,0,,
+1552201,pending,2,recovered_before_capture,
 3671973,pending,0,,
 4002141,pending,0,,
 2367258,pending,0,,

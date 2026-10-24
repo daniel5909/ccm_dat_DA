@@ -9,7 +9,7 @@
     "pending": 1291,
     "review_required": 18
   },
-  "updated_at_utc": "2026-10-24T02:52:34Z",
+  "updated_at_utc": "2026-10-24T02:54:31Z",
   "tracks": {
     "2128355": {
       "status": "features_done",
@@ -409,8 +409,8 @@
     },
     "1552201": {
       "status": "pending",
-      "attempts": 0,
-      "phase": null,
+      "attempts": 2,
+      "phase": "recovered_before_capture",
       "failure_kind": null
     },
     "3671973": {
