@@ -3,13 +3,13 @@
   "input_sha256": "5631da4cf30e9de0b7e2b22a78bf242c3be1be037d74adf0da49b0aa4f34e816",
   "rows": 1335,
   "unique_ids": 1335,
-  "verified_features_done": 14,
+  "verified_features_done": 15,
   "status_counts": {
-    "features_done": 14,
-    "pending": 1311,
+    "features_done": 15,
+    "pending": 1310,
     "review_required": 10
   },
-  "updated_at_utc": "2026-10-24T00:36:16Z",
+  "updated_at_utc": "2026-10-24T00:45:41Z",
   "tracks": {
     "2128355": {
       "status": "features_done",
@@ -80,6 +80,11 @@
       "status": "features_done",
       "csv_sha256": "ac879fd447998e9af0f4e515c59edff14b6eb6fc201fdf30b65b7437c5b97e76",
       "wav_sha256": "4e8d4492e018bd0a7f7b4319e80d64fea538947b5e72bdf6e03ffb3efdd502a5"
+    },
+    "2318448": {
+      "status": "features_done",
+      "csv_sha256": "003aac99139dec127bba91d08f3c90b39b53f9aef3f782631b1758f26b90cae5",
+      "wav_sha256": "191f711a5208c4a3315e29c4728bb9e6dec10c79fb21e91c25888c1c7c5d92a4"
     }
   },
   "track_status": {
@@ -228,9 +233,9 @@
       "failure_kind": null
     },
     "2318448": {
-      "status": "pending",
-      "attempts": 0,
-      "phase": null,
+      "status": "features_done",
+      "attempts": 1,
+      "phase": "features_done",
       "failure_kind": null
     },
     "2727150": {

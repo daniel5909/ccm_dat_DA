@@ -1,0 +1,39 @@
+{
+  "schema": "ccm-v3-receipt-v1",
+  "track_id": "2318448",
+  "status": "features_done",
+  "wav_sha256": "191f711a5208c4a3315e29c4728bb9e6dec10c79fb21e91c25888c1c7c5d92a4",
+  "csv_sha256": "003aac99139dec127bba91d08f3c90b39b53f9aef3f782631b1758f26b90cae5",
+  "receipt_sha256": "da8b7e0ae222d90b1947b0b1e21424a7b6e35a963d0f3322b7a1507cd4bce925",
+  "qa_result_sha256": "da2e932f59fb0d7775de2f092d7de15a7bb78aee45f06687d5639a8010151e44",
+  "signal_quality": {
+    "duration_seconds": 426.57,
+    "sample_rate": 48000,
+    "bits": 16,
+    "channels": 2,
+    "rms": 0.06367612758271499,
+    "rms_dbfs": -23.9204671153937,
+    "peak_dbfs": -5.986208687131491,
+    "clipping_fraction": 0.0,
+    "clipping_samples": 0,
+    "non_silent": true,
+    "leading_silence_seconds": 2.66,
+    "trailing_silence_seconds": 0.56,
+    "internal_silence_seconds": 0.02,
+    "silence_ratio": 0.007618913660126122,
+    "review_reasons": [],
+    "decoded_frames": 20475360,
+    "wav_sha256": "191f711a5208c4a3315e29c4728bb9e6dec10c79fb21e91c25888c1c7c5d92a4"
+  },
+  "natural_end_verified": true,
+  "feature_provenance": {
+    "config_sha256": "8aff79b8bde3a920c7901b7734efe0bc672846be26f8a8ef44c265c77223c9de",
+    "code_sha256": "d1825bbab62ce194d08265907df0fe239b8ab9be04f0b87910a50673201dda19",
+    "schema_sha256": "5e290711f95c20b813e0cf31ac49f182bdf2e179557e68daa0f48cfc1e03fab8",
+    "packages": {
+      "essentia": "2.1b6.dev1389",
+      "numpy": "2.5.4",
+      "soundfile": "0.14.0"
+    }
+  }
+}
