@@ -187,5 +187,14 @@
     "failure_kind": "system_error",
     "error": "RuntimeError: Ambiguous native document in selected player window",
     "qa_result": null
+  },
+  {
+    "track_id": "5708829",
+    "status": "review_required",
+    "attempts": 1,
+    "phase": "system_error",
+    "failure_kind": "system_error",
+    "error": "RuntimeError: Ambiguous native document in selected player window",
+    "qa_result": null
   }
 ]
