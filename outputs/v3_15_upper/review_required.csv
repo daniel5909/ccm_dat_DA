@@ -7,3 +7,4 @@
 3783395,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at prepare_native:150,
 621934,review_required,3,system_error,system_error,RuntimeError: Live player queue count is not safely observable,
 925993,review_required,1,system_error,system_error,RuntimeError: Ambiguous native document in selected player window,
+2128356,review_required,1,system_error,system_error,RuntimeError: Ambiguous native document in selected player window,
