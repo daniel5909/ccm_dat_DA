@@ -77,3 +77,4 @@
 2128348,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at prepare_native:150,
 30254384,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at exact search title/artist/album result,
 3783388,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at prepare_native:150,
+2067312,review_required,3,review_required,native_prepare_timeout,Bounded native UI wait timed out at pause:263,
