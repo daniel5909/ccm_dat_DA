@@ -72,30 +72,12 @@
     "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_074253_864908\\result.json"
   },
   {
-    "track_id": "4708964",
-    "status": "review_required",
-    "attempts": 1,
-    "phase": "system_error",
-    "failure_kind": "system_error",
-    "error": "RuntimeError: Unresolved prior attempt; review it before retry: C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_074253_864908\\result.json",
-    "qa_result": null
-  },
-  {
-    "track_id": "5571530",
-    "status": "review_required",
-    "attempts": 1,
-    "phase": "system_error",
-    "failure_kind": "system_error",
-    "error": "RuntimeError: Unresolved prior attempt; review it before retry: C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_074253_864908\\result.json",
-    "qa_result": null
-  },
-  {
     "track_id": "874761",
     "status": "review_required",
     "attempts": 1,
-    "phase": "system_error",
-    "failure_kind": "system_error",
-    "error": "RuntimeError: Unresolved prior attempt; review it before retry: C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_074253_864908\\result.json",
-    "qa_result": null
+    "phase": "review_required",
+    "failure_kind": "signal_quality_review",
+    "error": "TrackFailure: ['edge_silence_review']",
+    "qa_result": "C:\\Users\\danie\\Desktop\\CCM_Audio_Team_301_v3_20261020\\outputs_1335\\run_20261024_085727_222903\\result.json"
   }
 ]
