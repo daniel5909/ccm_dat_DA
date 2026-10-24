@@ -727,5 +727,14 @@
     "failure_kind": "system_error",
     "error": "RuntimeError: Ambiguous native document in selected player window",
     "qa_result": null
+  },
+  {
+    "track_id": "1650121",
+    "status": "review_required",
+    "attempts": 3,
+    "phase": "review_required",
+    "failure_kind": "native_prepare_timeout",
+    "error": "Bounded native UI wait timed out at prepare_native:150",
+    "qa_result": null
   }
 ]
